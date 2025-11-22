@@ -1,14 +1,3 @@
----
-title: Binary Search Visualizer
-emoji: 🔍
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: "4.0"
-app_file: app.py
-pinned: false
----
-
 # Binary Search Algorithm Visualizer
 
 ## Demo
@@ -40,13 +29,21 @@ I chose **Binary Search** because it's an efficient O(log n) algorithm that demo
 
 ### Algorithm Design
 **Input**: Sorted comma-separated numbers, target integer  
+
 **Process**: 
+
 WHILE low <= high:
+
 mid = (low + high) // 2
+
 IF array[mid] == target: RETURN FOUND
+
 ELSE IF array[mid] < target: low = mid + 1
+
 ELSE: high = mid - 1
+
 RETURN NOT FOUND
+
 **Output**: Visual step-by-step demonstration with color-coded array and final result
 
 ### Flowchart
