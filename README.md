@@ -1,7 +1,7 @@
 # Binary Search Algorithm Visualizer
 
 ## Demo
-*Live demo available at this Hugging Face Space*
+[My Hugging Face Space*](https://huggingface.co/spaces/Awwal-10/binary-search-visualizer)
 
 ## Problem Breakdown & Computational Thinking
 
