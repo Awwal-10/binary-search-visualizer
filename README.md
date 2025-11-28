@@ -6,7 +6,7 @@
 ## Problem Breakdown & Computational Thinking
 
 ### Algorithm Choice
-I chose **Binary Search** because it's an efficient O(log n) algorithm that demonstrates the "divide and conquer" approach perfectly. It's ideal for visualization as each step clearly shows the search space halving.
+I chose Binary Search because it's an efficient O(log n) algorithm that demonstrates the "divide and conquer" approach perfectly. I believe it's ideal for visualization as each step clearly shows the search space halving.
 
 ### Decomposition
 1. Take sorted array and target value as input
