@@ -1,12 +1,17 @@
 # Binary Search Algorithm Visualizer
 
-## Demo
+## Live Demo
 [My Hugging Face Space](https://huggingface.co/spaces/Awwal-10/binary-search-visualizer)
+[My Github Repo should go here](link)
+
+
+## 📸 Demo Screenshots
+*(Add my screenshots here showing different test cases)*
 
 ## Problem Breakdown & Computational Thinking
 
 ### Algorithm Choice
-I chose Binary Search because it's an efficient O(log n) algorithm that demonstrates the "divide and conquer" approach perfectly. I believe it's ideal for visualization as each step clearly shows the search space halving.
+I chose **Binary Search** because it's an efficient O(log n) algorithm that demonstrates the "divide and conquer" approach perfectly. It's ideal for visualization as each step clearly shows the search space halving.
 
 ### Decomposition
 1. Take sorted array and target value as input
@@ -77,14 +82,28 @@ If target < array[mid] → high = mid - 1
 
 If low > high → Not Found → End
 
+## 🛠️ Features & Usage
 
-## Steps to Run
-1. Enter sorted numbers (e.g., "1,3,5,7,9") in the first box
-2. Enter target number (e.g., "5") in the second box  
-3. View the step-by-step visualization
+### Two Learning Modes:
+1. **🚀 Quick Start**: Pre-made examples to learn from:
+   - *Simple Example*: Easy to follow demonstration
+   - *Best Case*: Target in middle (1 step)
+   - *Average Case*: Target exists in array
+   - *Worst Case*: Target not found
 
-## Testing & Verification
-Thoroughly tested with normal cases, edge cases, error handling, and large arrays. All tests passed.
+2. **🎯 Custom Search**: Enter your own sorted array and target
 
-## Author & Acknowledgment
-**Awwal** - CISC 121 Project
+### How to Use:
+1. Select an example from **Quick Start** OR check **"Use my own numbers"**
+2. Enter sorted numbers (comma-separated) and target
+3. Click **"Run Binary Search"** to see the algorithm work step-by-step
+4. Watch the color-coded visualization and learn how binary search works
+
+## 🚀 Deployment
+
+### Local Setup
+```bash
+git clone https://github.com/Awwal-10/binary-search-visualizer.git
+cd binary-search-visualizer
+pip install -r requirements.txt
+python app.py
