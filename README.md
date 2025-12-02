@@ -107,3 +107,7 @@ git clone https://github.com/Awwal-10/binary-search-visualizer.git
 cd binary-search-visualizer
 pip install -r requirements.txt
 python app.py
+
+### Author & Acknowledgment
+
+Awwal Ahmed - CISC 121 Project
