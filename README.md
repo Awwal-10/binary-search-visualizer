@@ -2,6 +2,7 @@
 
 ## Live Demo
 [My Hugging Face Space](https://huggingface.co/spaces/Awwal-10/binary-search-visualizer)
+
 [My Github Repo should go here](link)
 
 
@@ -102,12 +103,11 @@ If low > high → Not Found → End
 ## 🚀 Deployment
 
 ### Local Setup
-```bash
+
 git clone https://github.com/Awwal-10/binary-search-visualizer.git
 cd binary-search-visualizer
 pip install -r requirements.txt
 python app.py
 
-### Author & Acknowledgment
-
+### Author Acknoledgement
 Awwal Ahmed - CISC 121 Project
