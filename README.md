@@ -7,8 +7,28 @@
 
 
 ## 📸 Demo Screenshots
-*(Add my screenshots here showing different test cases)*
+## 🎥 Demo Videos (Hosted on Imgur)
 
+### Test 1: Simple Example
+[![Watch](https://img.shields.io/badge/▶️_Watch_Simple_Example-blue)](https://imgur.com/a/klnbAlb)
+
+### Test 2: Best Case  
+[![Watch](https://img.shields.io/badge/▶️_Watch_Best_Case-green)](https://imgur.com/a/FZdWvme)
+
+### Test 3: Average Case
+[![Watch](https://img.shields.io/badge/▶️_Watch_Worst_Case-orange)](https://imgur.com/a/AVtmYLv)
+
+### Test 4: Worst Case
+[![Watch](https://img.shields.io/badge/▶️_Watch_Worst_Case-orange)](https://imgur.com/a/Bw3Sgac)
+
+### Test 5: Custom Input
+[![Watch](https://img.shields.io/badge/▶️_Watch_Custom_Input-purple)](https://imgur.com/a/PiFwcAE)
+
+### Test 6: Unsorted Error
+[![Watch](https://img.shields.io/badge/▶️_Watch_Unsorted_Error-red)](https://imgur.com/a/pwbiigG)
+
+### Test 7: Empty Error  
+[![Watch](https://img.shields.io/badge/▶️_Watch_Empty_Error-red)](https://imgur.com/a/GcSbpdd)
 ## Problem Breakdown & Computational Thinking
 
 ### Algorithm Choice
