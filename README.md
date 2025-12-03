@@ -6,7 +6,6 @@
 [My Github Repo should go here](link)
 
 
-## 📸 Demo Screenshots
 ## 🎥 Demo Videos (Hosted on Imgur)
 
 ### Test 1: Simple Example
