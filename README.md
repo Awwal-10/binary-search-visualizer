@@ -130,3 +130,27 @@ python app.py
 
 ### Author Acknoledgement
 Awwal Ahmed - CISC 121 Project
+
+
+
+```mermaid
+flowchart TD
+    A([Start]) --> B[/Input: Sorted array & target/]
+    B --> C[Initialize: low = 0, high = len-1]
+    C --> D{"low ≤ high?"}
+    
+    D -- No --> E[Return 'Not Found']
+    E --> F([End])
+    
+    D -- Yes --> G["mid = floor((low + high) / 2)"]
+    G --> H{"array[mid] == target?"}
+    
+    H -- Yes --> I[Return 'Found at index mid']
+    I --> J([End])
+    
+    H -- No --> K{"array[mid] < target?"}
+    K -- Yes --> L[low = mid + 1]
+    K -- No --> M[high = mid - 1]
+    
+    L --> D
+    M --> D
