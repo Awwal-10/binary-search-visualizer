@@ -72,7 +72,7 @@ RETURN NOT FOUND
 **Output**: Visual step-by-step demonstration with color-coded array and final result
 
 ### Flowchart
-![Binary Search Flowchart](Binary_Search_Project_flowchart.png)
+![Binary Search Flowchart](flowchart.png)
 
 ## 🛠️ Features & Usage
 
@@ -94,7 +94,7 @@ RETURN NOT FOUND
 ## 🚀 Deployment
 
 ### Local Setup
-
+``` bash
 git clone https://github.com/Awwal-10/binary-search-visualizer.git
 cd binary-search-visualizer
 pip install -r requirements.txt
