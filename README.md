@@ -91,6 +91,9 @@ RETURN NOT FOUND
 3. Click **"Run Binary Search"** to see the algorithm work step-by-step
 4. Watch the color-coded visualization and learn how binary search works
 
+### Author Acknoledgement
+Awwal Ahmed - CISC 121 Project
+
 ## 🚀 Deployment
 
 ### Local Setup
@@ -100,5 +103,3 @@ cd binary-search-visualizer
 pip install -r requirements.txt
 python app.py
 
-### Author Acknoledgement
-Awwal Ahmed - CISC 121 Project
