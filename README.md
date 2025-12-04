@@ -72,35 +72,7 @@ RETURN NOT FOUND
 **Output**: Visual step-by-step demonstration with color-coded array and final result
 
 ### Flowchart
-Start → Input sorted array & target → Initialize low=0, high=len-1
-
-↓
-
-While low <= high
-
-↓
-
-mid = (low + high) // 2
-
-↓
-
-Compare array[mid] with target
-
-↓
-
-If equal → Found! → End
-
-↓
-
-If target > array[mid] → low = mid + 1
-
-↓
-
-If target < array[mid] → high = mid - 1
-
-↓
-
-If low > high → Not Found → End
+![Binary Search Flowchart](Binary_Search_Project_flowchart.png)
 
 ## 🛠️ Features & Usage
 
