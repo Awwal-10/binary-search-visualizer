@@ -1,3 +1,6 @@
+# Name: Awwal Ahmed
+# December 6th 2025
+
 # binary-search-project/app.py
 
 import gradio as gr
