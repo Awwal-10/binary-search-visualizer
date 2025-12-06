@@ -1,3 +1,6 @@
+# Name: Awwal Ahmed
+# December 6th 2025
+
 # Binary Search Algorithm Visualizer
 
 ## Live Demo
@@ -119,6 +122,9 @@ RETURN NOT FOUND
 ### Author Acknowledgement
 Awwal Ahmed - CISC 121 Project
 
+## Ai Disclosure
+I created this project with AI assistance for code structure and UI design. The binary search algorithm implementation, Gradio interface design, and educational explanations were created with AI guidance, then tested, debugged,documented and customized by me.
+
 ## 🚀 Deployment
 
 ### Local Setup
@@ -127,3 +133,4 @@ git clone https://github.com/Awwal-10/binary-search-visualizer.git
 cd binary-search-visualizer
 pip install -r requirements.txt
 python app.py
+---
